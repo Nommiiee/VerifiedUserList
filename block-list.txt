@@ -1,1 +1,1 @@
-kat_sune,
+block-list,kat_sune,
